@@ -6,6 +6,7 @@
 
 - ADS‑B（飞机 1090MHz）一步到位：`docs/sdrangel-adsb-hackrf-win11.md`
 - SDRangel Channel 逐个解释（频段/玩法/大致需要的天线/配件）：`docs/sdrangel-channels-explained.md`
+- NOAA APT（137MHz）天气云图：买啥 + 最省事天线：`docs/noaa-apt-antenna-137mhz.md`
 
 ## 最小前置条件（不满足就先别折腾软件）
 
@@ -26,4 +27,3 @@
 ## 合规提示
 
 请只接收你有权接收、且当地法律允许的无线电信号；涉及业务通信、隐私内容的解码/监听可能违法。
-
