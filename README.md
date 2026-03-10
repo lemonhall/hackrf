@@ -9,6 +9,8 @@
 - NOAA APT（137MHz）天气云图：买啥 + 最省事天线：`docs/noaa-apt-antenna-137mhz.md`
 - FM 广播扫台（Frequency Scanner）：`docs/sdrangel-fm-scanner-win11.md`
 - Frequency Scanner 预置频段解释 + 扫不到原因：`docs/sdrangel-frequency-scanner-presets.md`
+- 无线电测向/定位：HackRF 能做什么，为什么 KrakenSDR 更适合：`docs/hackrf-radio-direction-finding.md`
+- SDR 设备清单：哪些机器有意思、分别适合干什么：`docs/sdr-devices-overview.md`
 
 ## 最小前置条件（不满足就先别折腾软件）
 
